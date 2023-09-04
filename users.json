@@ -1,1 +1,14 @@
-
+{
+    "users": [
+        {
+            "username": "thrax",
+            "password": "123",
+            "hwid": "identificador_do_dispositivo"
+        },
+        {
+            "username": "nick",
+            "password": "jorgexuxudelasbeleza",
+            "hwid": "identificador_do_dispositivo"
+        }
+    ]
+}
